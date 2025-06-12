@@ -42,3 +42,4 @@ func scanf1() {
 	fmt.Println("Hello", name)
 	fmt.Println("Your score is", score+10)
 }
+
